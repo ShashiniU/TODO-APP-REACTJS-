@@ -1,4 +1,4 @@
-## Available Scripts
+## TODO LIST APP
 
 This project is about Todolist creater. User4 can create list and save what he done & undone.
 
