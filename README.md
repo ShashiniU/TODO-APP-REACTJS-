@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TODO LIST APP
+
+This project is about Todolist creater. User4 can create list and save what he done & undone.
 
 ## Available Scripts
 
